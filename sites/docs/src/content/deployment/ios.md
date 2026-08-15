@@ -403,7 +403,7 @@ find . -name "Podfile" -execdir pod install \;
 </li>
 <li>
 
-Build the Flutter the iOS project:
+Build the Flutter iOS project:
 
 ```bash
 flutter build ipa --release \
